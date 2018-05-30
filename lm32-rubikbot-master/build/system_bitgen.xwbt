@@ -1,0 +1,7 @@
+INFILE=/media/psf/Home/Documents/Digital II/Rubikbot/lm32-rubikbot-master/build/system-routed.ncd
+OUTFILE=/media/psf/Home/Documents/Digital II/Rubikbot/lm32-rubikbot-master/build/system.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=/media/psf/Home/Documents/Digital II/Rubikbot/lm32-rubikbot-master/build
+LICENSE=WebPack
+USER_INFO=211383071_0_0_378
